@@ -1,0 +1,122 @@
+body {
+  background-color: white;
+}
+.navbar {
+  color: azure;
+  font-family: "Indie Flower", cursive;
+  font-size: 1.5rem;
+}
+.navbar-brand {
+  font-size: 1.75rem;
+  color: white;
+  font-weight: bold;
+}
+.nav-link {
+  color: white;
+  margin-right: 15px;
+}
+.navbar-nav {
+  padding-left: 18%;
+}
+.container-fluid {
+  padding: 10px 25px;
+}
+#title {
+  background-image: url("coffeebg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.quote {
+  color: white;
+  font-family: "Courgette", cursive;
+  font-size: 5rem;
+  text-align: center;
+  padding: 210px 0px 0px 130px;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  font-family: "Handlee", cursive;
+  font-size: 5rem;
+  color: #3c2a21;
+  padding-top: 50px;
+  text-decoration: underline;
+}
+h3 {
+  text-align: center;
+  font-family: "Handlee", cursive;
+  color: #3c2a21;
+  padding-top: 10px;
+}
+.image {
+  height: 300px;
+  width: auto;
+}
+.img1 {
+  padding-left: 110px;
+  padding-top: 20px;
+}
+.img2 {
+  padding-top: 20px;
+  padding-left: 90px;
+}
+.img3 {
+  padding-top: 20px;
+  padding-left: 100px;
+}
+#carouselExampleCaptions {
+  height: 400px;
+  width: 400px;
+  text-align: center;
+}
+
+.carousel-item img {
+  height: 300px;
+  width: auto;
+}
+/*.container {
+  padding-left: 30%;
+  padding-top: 20px;
+}*/
+h2 {
+  font-family: "Handlee", cursive;
+  padding-left: 130px;
+}
+.coffee {
+  padding-left: 10%;
+  padding-top: 20px;
+}
+h5 {
+  color: #3c2a21;
+  text-align: left;
+}
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon {
+  margin: 10px 10px;
+}
+.menu-item {
+  text-decoration: underline;
+  text-align: left;
+}
+#features {
+  padding: 3% 15%;
+  /*background-color: #f4ede7;*/
+  /* position: relative;
+  z-index: 1;*/
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #3c2a21;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
